@@ -1,0 +1,6 @@
+{
+  "name": "taming-thymeleaf-tests",
+  "devDependencies": {
+    "cypress": "^9.3.1"
+  }
+}
